@@ -5,6 +5,7 @@ Welcome to the Simple AI Animations repository! This repository is dedicated to 
 
 ## Repository Overview
 ![Example Image](https://github.com/Tonumoy/Simple-AI-Animations/blob/main/anim.jpeg)
+
 This repository aims to provide easy-to-understand, visually appealing animations that illustrate key AI and machine learning concepts. Whether you are a beginner looking to grasp the basics or an educator seeking visual aids for teaching, these animations are designed to make complex ideas more accessible and engaging.
 
 ## Features
