@@ -4,7 +4,7 @@
 Welcome to the Simple AI Animations repository! This repository is dedicated to showcasing a collection of scripts that generate educational animations demonstrating fundamental AI concepts using Python and various libraries like Matplotlib, TensorFlow, and more.
 
 ## Repository Overview
-
+![Example Image](https://github.com/Tonumoy/Simple-AI-Animations/blob/main/anim.jpeg)
 This repository aims to provide easy-to-understand, visually appealing animations that illustrate key AI and machine learning concepts. Whether you are a beginner looking to grasp the basics or an educator seeking visual aids for teaching, these animations are designed to make complex ideas more accessible and engaging.
 
 ## Features
@@ -37,9 +37,6 @@ Contributions are welcome! If you have an idea for an animation or an improvemen
 
 This repository is licensed under the MIT License. Feel free to use the code and animations for educational and non-commercial purposes.
 
-## Contact
-
-For any questions or suggestions, please contact Tonumoy Mukherjee at [tonumoymukherjee1@gmail.com](mailto:tonumoymukherjee1@gmail.com).
 
 ---
 
